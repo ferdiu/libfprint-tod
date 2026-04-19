@@ -2,7 +2,7 @@
 
 Name:           libfprint-tod
 
-Version:        1.94.10
+Version:        1.95.1
 Release:        %autorelease
 Summary:        Toolkit for fingerprint scanner
 
@@ -90,10 +90,4 @@ for developing applications that use %{name}.
 # %%{_datadir}/gtk-doc/html/libfprint-2/
 
 %changelog
-* Wed Sep 18 2024 Quan Trinh <qt.quantrinh@zohomail.com> 1.94.8-1
-- Updated to 1.94.8
-* Sat Apr 12 2025 Quan Trinh <qt.quantrinh@zohomail.com> 1.94.9-1
-- Updated to 1.94.9
-* Thu Mar 12 2026 Quan Trinh <qt.quantrinh@zohomail.com> 1.94.10-1
-- Updated to 1.94.10
 %autochangelog
