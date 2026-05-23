@@ -11,7 +11,7 @@ Obsoletes:      %{name} < %{version}
 Conflicts:      libfprint
 
 License:        LGPLv2+
-URL:            http://www.freedesktop.org/wiki/Software/fprint/libfprint
+URL:            https://gitlab.freedesktop.org/3v1n0/libfprint
 Source0:        https://gitlab.freedesktop.org/3v1n0/libfprint/-/archive/v%{version}+tod1/libfprint-v%{version}+tod1.tar.gz
 ExcludeArch:    s390 s390x
 
